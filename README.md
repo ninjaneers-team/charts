@@ -3,5 +3,5 @@
 To add the ninjaneers public repo:
 
 ```
-helm repo add ninjaneers https://ninjaneers-team.github.io/helm
+helm repo add ninjaneers https://ninjaneers-team.github.io/charts
 ```
