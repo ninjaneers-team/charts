@@ -1,6 +1,7 @@
-#homebrew-uropa
+# Public helm chart from ninjaneers
 
-Homebrew Formula to install uropa:
+To install the ninjaneers public repo:
 
-brew tap ninjaneers-team/uropa
-brew install uropa
+```
+helm repo add ninjaneers https://ninjaneers-team.github.io/helm
+```
