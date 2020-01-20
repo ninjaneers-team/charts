@@ -3,11 +3,11 @@ entries:
   uropa:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-01-20T13:18:57.37970231Z"
+    created: "2020-01-20T13:53:32.561064603Z"
     description: A Helm chart for Kubernetes
     digest: 8c7581d91c4399ad2e03305aebd6b84e49c9318a90ff08dda1a23711ba0698cc
     name: uropa
     urls:
     - https://ninjaneers-team.github.io/charts/uropa-1.3.11.tgz
     version: 1.3.11
-generated: "2020-01-20T13:18:57.378952939Z"
+generated: "2020-01-20T13:53:32.560272987Z"
