@@ -6,13 +6,13 @@ setup_git() {
 }
 
 commit_website_files() {
-  git checkout -b master
+  git checkout master
   git add . *.yaml
   git commit --message "Update index [skip ci]"
 }
 
 upload_files() {
-  git push --quiet
+  git push --quiet origin master
 }
 
 setup_git
