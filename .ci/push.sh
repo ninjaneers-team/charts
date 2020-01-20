@@ -12,7 +12,7 @@ commit_website_files() {
 }
 
 upload_files() {
-  git remote add remote https://${GH_TOKEN}@github.com/ninjaneers-team/charts.git > /dev/null 2>&1
+  git remote add remote https://${GITHUB_TOKEN}@github.com/ninjaneers-team/charts.git > /dev/null 2>&1
   git push --quiet remote master
 }
 
