@@ -6,3 +6,17 @@ before_install:
   - helm init --client-only
 script:
   - helm repo index . --url https://ninjaneers-team.github.io/charts/
+before_deploy:
+  - git config --local user.name "Travis"
+  - git config --local user.email "travis@ninjaneers.de"
+  - export TRAVIS_TAG=${TRAVIS_TAG:-$(date +'%Y%m%d%H%M%S')-$(git log --format=%h -1)}
+  - git tag $TRAVIS_TAG
+deploy:
+  provider: pages
+  overwrite: true
+  skip-cleanup: true
+  target-branch: master
+  keep-history: true
+  verbose: true
+  on:
+    branch: master
