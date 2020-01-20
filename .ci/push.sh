@@ -6,14 +6,14 @@ setup_git() {
 }
 
 commit_website_files() {
-  git checkout -b index-update
+  git checkout -b master
   git add . *.yaml
   git commit --message "Update index [skip ci]"
 }
 
 upload_files() {
   git remote add origin-index-update https://${GITHUB_TOKEN}@github.com/ninjaneers-team/charts.git > /dev/null 2>&1
-  git push --quiet --set-upstream origin-index-update index-update
+  git push --quiet --set-upstream origin/master master
 }
 
 setup_git
