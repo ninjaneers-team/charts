@@ -17,6 +17,7 @@ deploy:
   github_token: $GITHUB_TOKEN
   skip-cleanup: true
   target-branch: master
+  commit_message: "Update index [skip ci]"
   keep-history: true
   verbose: true
   on:
