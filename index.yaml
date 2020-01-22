@@ -3,7 +3,16 @@ entries:
   deck:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-01-22T15:01:01.264677421Z"
+    created: "2020-01-22T15:39:29.128733682Z"
+    description: A Helm chart for Kubernetes
+    digest: 3700ea2bfd447a0a4707a0d34cb7e263b1b2a8fb3bfd5c659658481292afae9f
+    name: deck
+    urls:
+    - https://ninjaneers-team.github.io/charts/deck-2.0.2.tgz
+    version: 2.0.2
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2020-01-22T15:39:29.128201879Z"
     description: A Helm chart for Kubernetes
     digest: 325440b517e70513866254a544c834d15b1a45985cda4bc875688817a790901b
     name: deck
@@ -12,7 +21,7 @@ entries:
     version: 2.0.1
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-01-22T15:01:01.264131922Z"
+    created: "2020-01-22T15:39:29.127669055Z"
     description: A Helm chart for Kubernetes
     digest: cfbd5b12d6bb41a5813bb9921821291f3c8910f5435fe28655e8fb0878ef71d9
     name: deck
@@ -21,7 +30,7 @@ entries:
     version: 2.0.0
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-01-22T15:01:01.263276298Z"
+    created: "2020-01-22T15:39:29.127067585Z"
     description: A Helm chart for Kubernetes
     digest: 62665ae78206674385195ab892ed28dd3eb63082b53688f4637cc91e280e8f4f
     name: deck
@@ -31,7 +40,7 @@ entries:
   flywait:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-01-22T15:01:01.266059251Z"
+    created: "2020-01-22T15:39:29.130081469Z"
     description: A Helm chart for Kubernetes
     digest: 2fe5524fbf082557cef092f4535db615fe4e3841f6cf882aad4705cec34e360d
     name: flywait
@@ -40,7 +49,7 @@ entries:
     version: 1.3.4
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-01-22T15:01:01.265616884Z"
+    created: "2020-01-22T15:39:29.12962693Z"
     description: A Helm chart for Kubernetes
     digest: cfb14dab8abb5889deca8035c312859eff0601cdb697f7058f712486817c19e5
     name: flywait
@@ -49,7 +58,7 @@ entries:
     version: 1.3.2
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-01-22T15:01:01.26511696Z"
+    created: "2020-01-22T15:39:29.129189032Z"
     description: A Helm chart for Kubernetes
     digest: 04be6cdb656559d5db4ea4d13df26bdd3351f3bf9dded03edb7f7b46e3d73ee0
     name: flywait
@@ -59,7 +68,7 @@ entries:
   fusionauth:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-01-22T15:01:01.276096596Z"
+    created: "2020-01-22T15:39:29.140047109Z"
     description: Helm chart for fusionauth
     digest: 2924dee7ef4c6d7fda9e4eaabeab6eaef16b4a380d29370450a1898a0dc53ba3
     name: fusionauth
@@ -68,7 +77,7 @@ entries:
     version: 1.0.1
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-01-22T15:01:01.271251147Z"
+    created: "2020-01-22T15:39:29.135196291Z"
     description: Helm chart for fusionauth
     digest: f7cdea1ffce0b405d755ee01d45853e59d664f7fbe26854b86139138d1f3ed27
     name: fusionauth
@@ -78,11 +87,11 @@ entries:
   uropa:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-01-22T15:01:01.276861857Z"
+    created: "2020-01-22T15:39:29.14073752Z"
     description: A Helm chart for Kubernetes
     digest: 8c7581d91c4399ad2e03305aebd6b84e49c9318a90ff08dda1a23711ba0698cc
     name: uropa
     urls:
     - https://ninjaneers-team.github.io/charts/uropa-1.3.11.tgz
     version: 1.3.11
-generated: "2020-01-22T15:01:01.262827229Z"
+generated: "2020-01-22T15:39:29.126217656Z"
