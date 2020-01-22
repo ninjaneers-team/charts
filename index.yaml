@@ -3,7 +3,16 @@ entries:
   deck:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-01-22T09:23:20.128545884Z"
+    created: "2020-01-22T11:52:56.717818648Z"
+    description: A Helm chart for Kubernetes
+    digest: cfbd5b12d6bb41a5813bb9921821291f3c8910f5435fe28655e8fb0878ef71d9
+    name: deck
+    urls:
+    - https://ninjaneers-team.github.io/charts/deck-2.0.0.tgz
+    version: 2.0.0
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2020-01-22T11:52:56.71706562Z"
     description: A Helm chart for Kubernetes
     digest: 62665ae78206674385195ab892ed28dd3eb63082b53688f4637cc91e280e8f4f
     name: deck
@@ -13,7 +22,7 @@ entries:
   flywait:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-01-22T09:23:20.128806193Z"
+    created: "2020-01-22T11:52:56.718352042Z"
     description: A Helm chart for Kubernetes
     digest: 04be6cdb656559d5db4ea4d13df26bdd3351f3bf9dded03edb7f7b46e3d73ee0
     name: flywait
@@ -23,11 +32,11 @@ entries:
   uropa:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-01-22T09:23:20.129332471Z"
+    created: "2020-01-22T11:52:56.718807847Z"
     description: A Helm chart for Kubernetes
     digest: 8c7581d91c4399ad2e03305aebd6b84e49c9318a90ff08dda1a23711ba0698cc
     name: uropa
     urls:
     - https://ninjaneers-team.github.io/charts/uropa-1.3.11.tgz
     version: 1.3.11
-generated: "2020-01-22T09:23:20.128048217Z"
+generated: "2020-01-22T11:52:56.715903801Z"
