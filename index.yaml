@@ -3,7 +3,7 @@ entries:
   deck:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-01-27T15:25:04.448060291Z"
+    created: "2020-01-27T16:22:58.79742191Z"
     description: A Helm chart for Kubernetes
     digest: c1ddf4fcb3c8d17a67acb76a0b8aab07b918ba4e92317ccfcc7939af3a770a0c
     name: deck
@@ -12,7 +12,7 @@ entries:
     version: 2.0.6
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-01-27T15:25:04.447418457Z"
+    created: "2020-01-27T16:22:58.796928837Z"
     description: A Helm chart for Kubernetes
     digest: e4f242d83c1ed05272bf24e191d99a28fae32720301b6ff5f01175debfe42053
     name: deck
@@ -21,7 +21,7 @@ entries:
     version: 2.0.5
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-01-27T15:25:04.446836357Z"
+    created: "2020-01-27T16:22:58.796592577Z"
     description: A Helm chart for Kubernetes
     digest: 88dbd00acc0136009d188e0ad15e05c3ab17f5a316a5afc371f69fc59d8d5436
     name: deck
@@ -30,7 +30,7 @@ entries:
     version: 2.0.4
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-01-27T15:25:04.446268022Z"
+    created: "2020-01-27T16:22:58.79626014Z"
     description: A Helm chart for Kubernetes
     digest: 7bee33fa02a048c2bb6bf6d68fb09b29beb69088cbca9f452b343011c771c459
     name: deck
@@ -39,7 +39,7 @@ entries:
     version: 2.0.3
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-01-27T15:25:04.445682308Z"
+    created: "2020-01-27T16:22:58.79590337Z"
     description: A Helm chart for Kubernetes
     digest: 3700ea2bfd447a0a4707a0d34cb7e263b1b2a8fb3bfd5c659658481292afae9f
     name: deck
@@ -48,7 +48,7 @@ entries:
     version: 2.0.2
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-01-27T15:25:04.445018898Z"
+    created: "2020-01-27T16:22:58.795344682Z"
     description: A Helm chart for Kubernetes
     digest: 325440b517e70513866254a544c834d15b1a45985cda4bc875688817a790901b
     name: deck
@@ -57,7 +57,7 @@ entries:
     version: 2.0.1
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-01-27T15:25:04.444446699Z"
+    created: "2020-01-27T16:22:58.794786507Z"
     description: A Helm chart for Kubernetes
     digest: cfbd5b12d6bb41a5813bb9921821291f3c8910f5435fe28655e8fb0878ef71d9
     name: deck
@@ -66,7 +66,7 @@ entries:
     version: 2.0.0
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-01-27T15:25:04.444148216Z"
+    created: "2020-01-27T16:22:58.794199081Z"
     description: A Helm chart for Kubernetes
     digest: 62665ae78206674385195ab892ed28dd3eb63082b53688f4637cc91e280e8f4f
     name: deck
@@ -76,7 +76,7 @@ entries:
   flywait:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-01-27T15:25:04.448946231Z"
+    created: "2020-01-27T16:22:58.79823738Z"
     description: A Helm chart for Kubernetes
     digest: 526486e806ac39c1147824e1ad205b7844b3c66f737387684938a5ff868e9478
     name: flywait
@@ -85,7 +85,7 @@ entries:
     version: 1.3.5
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-01-27T15:25:04.448728283Z"
+    created: "2020-01-27T16:22:58.798026968Z"
     description: A Helm chart for Kubernetes
     digest: 2fe5524fbf082557cef092f4535db615fe4e3841f6cf882aad4705cec34e360d
     name: flywait
@@ -94,7 +94,7 @@ entries:
     version: 1.3.4
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-01-27T15:25:04.448520947Z"
+    created: "2020-01-27T16:22:58.797831991Z"
     description: A Helm chart for Kubernetes
     digest: cfb14dab8abb5889deca8035c312859eff0601cdb697f7058f712486817c19e5
     name: flywait
@@ -103,7 +103,7 @@ entries:
     version: 1.3.2
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-01-27T15:25:04.448310827Z"
+    created: "2020-01-27T16:22:58.797630898Z"
     description: A Helm chart for Kubernetes
     digest: 04be6cdb656559d5db4ea4d13df26bdd3351f3bf9dded03edb7f7b46e3d73ee0
     name: flywait
@@ -113,7 +113,16 @@ entries:
   fusionauth:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-01-27T15:25:04.491328766Z"
+    created: "2020-01-27T16:22:58.844689535Z"
+    description: Helm chart for fusionauth
+    digest: 0cdeeafb62dd9c833d51c0a3304a55e2daaf979dac42f200909181a1bb818cc8
+    name: fusionauth
+    urls:
+    - https://ninjaneers-team.github.io/charts/fusionauth-1.2.5.tgz
+    version: 1.2.5
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2020-01-27T16:22:58.840414048Z"
     description: Helm chart for fusionauth
     digest: 0fa351539d1e77283b4d5c37bda91a7095117d6291776859187b89e8632e6e9f
     name: fusionauth
@@ -122,7 +131,7 @@ entries:
     version: 1.2.4
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-01-27T15:25:04.484783154Z"
+    created: "2020-01-27T16:22:58.83565514Z"
     description: Helm chart for fusionauth
     digest: b6a36fed69eb5534047248a7bc1e0e94aa312e5c3f9776a9a2280a9a5869a090
     name: fusionauth
@@ -131,7 +140,7 @@ entries:
     version: 1.2.3
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-01-27T15:25:04.480270574Z"
+    created: "2020-01-27T16:22:58.829457914Z"
     description: Helm chart for fusionauth
     digest: 0c34ff57aa1e1039ed46240acf4f5c62c2546235e0f08013e2c217ef85353cf9
     name: fusionauth
@@ -140,7 +149,7 @@ entries:
     version: 1.2.2
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-01-27T15:25:04.475377663Z"
+    created: "2020-01-27T16:22:58.825030785Z"
     description: Helm chart for fusionauth
     digest: 36ee2717906fc86878a6220e47f7601e773fda54cf0d1729bb48e77fdc90ac53
     name: fusionauth
@@ -149,7 +158,7 @@ entries:
     version: 1.2.1
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-01-27T15:25:04.468653326Z"
+    created: "2020-01-27T16:22:58.81812112Z"
     description: Helm chart for fusionauth
     digest: 3147221f303f9d74d204507abbc5f4fb35dbae1e5fd249127382cda0ba5fa0d7
     name: fusionauth
@@ -158,7 +167,7 @@ entries:
     version: 1.2.0
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-01-27T15:25:04.464056521Z"
+    created: "2020-01-27T16:22:58.813405121Z"
     description: Helm chart for fusionauth
     digest: f13ac6e06d304ac15fad70a7ea72a3eee8d2265c35c25c00fb88ea7fe738915d
     name: fusionauth
@@ -167,7 +176,7 @@ entries:
     version: 1.1.0
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-01-27T15:25:04.46011559Z"
+    created: "2020-01-27T16:22:58.809364733Z"
     description: Helm chart for fusionauth
     digest: 2924dee7ef4c6d7fda9e4eaabeab6eaef16b4a380d29370450a1898a0dc53ba3
     name: fusionauth
@@ -176,7 +185,7 @@ entries:
     version: 1.0.1
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-01-27T15:25:04.453479947Z"
+    created: "2020-01-27T16:22:58.802706433Z"
     description: Helm chart for fusionauth
     digest: f7cdea1ffce0b405d755ee01d45853e59d664f7fbe26854b86139138d1f3ed27
     name: fusionauth
@@ -186,7 +195,7 @@ entries:
   konga:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-01-27T15:25:04.491734724Z"
+    created: "2020-01-27T16:22:58.845076645Z"
     description: A Helm chart for Kubernetes
     digest: 1ccb69f2f82e67db473539a78febf80badd48d9774a465add817d1451c2c6165
     name: konga
@@ -196,11 +205,11 @@ entries:
   uropa:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-01-27T15:25:04.491943014Z"
+    created: "2020-01-27T16:22:58.84528289Z"
     description: A Helm chart for Kubernetes
     digest: 8c7581d91c4399ad2e03305aebd6b84e49c9318a90ff08dda1a23711ba0698cc
     name: uropa
     urls:
     - https://ninjaneers-team.github.io/charts/uropa-1.3.11.tgz
     version: 1.3.11
-generated: "2020-01-27T15:25:04.443686464Z"
+generated: "2020-01-27T16:22:58.793296542Z"
